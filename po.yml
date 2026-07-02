@@ -22,7 +22,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: myui
+  name: argocd-myui
 spec:
   selector:
     app: swiggy
