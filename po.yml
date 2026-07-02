@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: cont1
-          image: nagasshankar8916/library:app_img
+          image: nagashankar8916/library:app_img
           ports:
             - containerPort: 5000
 
